@@ -3,10 +3,9 @@ numpy
 pandas
 matplotlib
 seaborn
-flask
-memory_profiler
 streamlit
 scikit-learn
 nltk==3.8.1
-tensorflow==2.15.0
+tensorflow
+
 tensorboard
